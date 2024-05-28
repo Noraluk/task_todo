@@ -1,0 +1,6 @@
+database:
+  host: localhost # change it to host.docker.internal if you use mac and need to run docker
+  port: 5432
+  username: postgres
+  password: admin
+  database_name: postgres
